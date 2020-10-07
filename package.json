@@ -1,0 +1,7 @@
+{
+  "name": "parser-combinators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bahodge <benjamin.andrew.hodge@gmail.com>",
+  "license": "MIT"
+}
